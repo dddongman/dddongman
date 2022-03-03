@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dddongman
-- 👀 I’m interested in ... Cars, photos, gaming etc...
+- 👀 I’m interested in ... Cars, photography, gaming etc...
 - 🌱 I’m currently learning ... JavaScript
 - 🏫 I’m currently studying at ... Kaywon University of Arts and Design
 - 📫 How to reach me ... Email: koon15@kaywon.ac.kr
