@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dddongman
-- 👀 I’m interested in ... Cars, photography, gaming etc...
+- 👀 I’m interested in ... Cars, photography, gaming, music etc...
 - 🌱 I’m currently learning ... JavaScript
 - 🏫 I’m currently studying at ... Kaywon University of Arts and Design
-- 📫 How to reach me ... Email: koon15@kaywon.ac.kr
+- 📫 How to reach me ... via Email: koon15@kaywon.ac.kr
 - 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdddongman&count_bg=%23D74040&title_bg=%23253C1B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
